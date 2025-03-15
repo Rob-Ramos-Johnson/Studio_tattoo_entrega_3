@@ -272,7 +272,7 @@ footer {
     margin-bottom: 20px;
     color: white;
     opacity: 1;
-    animation: slideInUp 2s ease-out forwards; 
+    animation: slideInUp 2s ease-out forwards;
 }
 @keyframes slideInUp {
     from {
